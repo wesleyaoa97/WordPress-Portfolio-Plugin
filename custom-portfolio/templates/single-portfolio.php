@@ -243,3 +243,6 @@ if ($portfolio_tags && !is_wp_error($portfolio_tags)) {
 
 <?php get_footer(); ?>
 
+        <!-- 
+            Testing workflow set up (local) -> (commit) -> (push) -> (git + staging)
+        -->
