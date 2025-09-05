@@ -28,8 +28,8 @@ Custom portfolio manager for WordPress with a grid-based front-end display and d
 Prototype **v0.1** – under development  
 
 **Planned improvements:**  
-1. Option to toggle before/after section (per project)
-2. If no Challenges, media, or other sections have been added (e.g. Norway Excursions AS project), only render provided data.
+1. ~~Option to toggle before/after section (per project)~~
+2. ~~If no Challenges, media, or other sections have been added (e.g. Norway Excursions AS project), only render provided data.~~
 3. Code cleanup and refinements (Improving files, libraries etc)   
 4. Improved grid styling and animations  
 5. Enhanced filter options (multi-category select, tags)  
@@ -50,5 +50,9 @@ Prototype **v0.1** – under development
 ### Frontend UI  
 ![Frontend UI 1](https://github.com/user-attachments/assets/8f001d67-c594-43d0-99db-b20076d88210)
 ![Frontend UI 2](https://github.com/user-attachments/assets/fa2003ed-2b8c-4325-8afe-e56d6ce349c2)
-![Frontend UI 3](https://github.com/user-attachments/assets/8790b832-7ab7-4530-b41c-bcce2767757d)
+
+| Before 1 and 2 Planned Feature | With 1 and 2 Planned Feature |
+|---|---|
+|<img width="522" height="806" alt="image" src="https://github.com/user-attachments/assets/8790b832-7ab7-4530-b41c-bcce2767757d" />| <img width="522" height="806" alt="image" src="https://github.com/user-attachments/assets/dc66a167-91eb-4dfa-9e53-70fb6b7c71fb" />|
+
 ![Frontend UI 4](https://github.com/user-attachments/assets/a1e88bfe-d0be-4035-a0b7-59e8ddcf5f4a)
